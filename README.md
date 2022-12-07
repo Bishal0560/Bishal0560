@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bishal0560. Currently I am pursving Btech CSE from LPU
+- 👋 Hi, I’m @Bishal0560. Currently I am pursving Btech CSE in
+ LPU
 - 👀 I’m interested in ... Python ,Html ,CSS
 - 🌱 I’m currently learning ... Html and CSS
 - 💞️ I’m looking to collaborate on ...
